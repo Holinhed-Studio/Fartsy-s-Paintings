@@ -1,0 +1,127 @@
+{
+  "mod_elements": [
+    {
+      "name": "KapeBeans1",
+      "type": "painting",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_beans_1"
+    },
+    {
+      "name": "KapeBeans2",
+      "type": "painting",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_beans_2"
+    },
+    {
+      "name": "KapeBeans3",
+      "type": "painting",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_beans_3"
+    },
+    {
+      "name": "KapeBeans4",
+      "type": "painting",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_beans_4"
+    },
+    {
+      "name": "KapeBeans5",
+      "type": "painting",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_beans_5"
+    },
+    {
+      "name": "KapeBeans6",
+      "type": "painting",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_beans_6"
+    },
+    {
+      "name": "KapeBeans7",
+      "type": "painting",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_beans_7"
+    },
+    {
+      "name": "KapeBeans8",
+      "type": "painting",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_beans_8"
+    },
+    {
+      "name": "KapeBeans9",
+      "type": "painting",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_beans_9"
+    },
+    {
+      "name": "KapeBeans10",
+      "type": "painting",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_beans_10"
+    },
+    {
+      "name": "KapeBeans11",
+      "type": "painting",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_beans_11"
+    },
+    {
+      "name": "KapeBeans12",
+      "type": "painting",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kape_beans_12"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "fartsys_paintings",
+    "modName": "Fartsy\u0027s Paintings",
+    "version": "1.0.0",
+    "author": "profe, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "com.firehostredux.fartsyspaintings",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}
